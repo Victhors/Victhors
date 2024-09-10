@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alan Victor (Victo)</h1>
+<h1 align="center">Hi 👋, I'm Alan Victor (Victhors)</h1>
 <h3 align="center">A data science enthusiast with a special interest in computer vision, machine learning and information security.</h3>
 
 - 🔭 I’m currently working on **YOLO**
@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victhors&show_icons=true&locale=en" alt="victhors" /></p>
 
-<p><img align="right-center" src="https://github-readme-streak-stats.herokuapp.com/?user=victhors&" alt="victhors" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victhors&" alt="victhors" /></p>
 
