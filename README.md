@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Victor (Victo)</h1>
 <h3 align="center">A data science enthusiast with a special interest in computer vision, machine learning and information security.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victhors" alt="victhors" /></a> </p>
-
 - 🔭 I’m currently working on **YOLO**
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -10,8 +8,6 @@
 - 🤝 I’m looking for help with **data-science**
 
 - 💬 Ask me about **Cyber Security**
-
-- 📫 How to reach me **v0r1cth5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
