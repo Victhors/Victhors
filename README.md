@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alan Victor (Victhors)</h1>
 <h3 align="center">A data science enthusiast with a special interest in computer vision, machine learning and information security.</h3>
 
-- 🔭 I’m currently working on **YOLO**
+- 🔭 I’m currently working on **Typescript**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **data-science**
+- 🤝 I’m looking for help with **Typescript Projects**
 
 - 💬 Ask me about **Cyber Security**
 
