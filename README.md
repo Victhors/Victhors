@@ -38,9 +38,6 @@
   <a href="https://jupyter.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="40" height="40"/>
   </a>
-  <a href="https://obsidian.md" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone/logos/obsidianmd/obsidianmd-icon.svg" alt="obsidian" width="40" height="40"/>
-  </a>
 </p>
 
 
