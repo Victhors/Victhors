@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Victor (Victhors)</h1>
-<h3 align="center">I solve problems!</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hello GIF" width="250"/>
-</p>
+<h3 align="center">Data Science Enthusiast with a Special Interest in Web Development, Computer Vision, Machine Learning, and Information Security</h3>
 
 ## 🚀 About Me
 
@@ -12,7 +8,7 @@
 - 🤝 I’m looking for help with **Typescript Projects**
 - 💬 Ask me about **Cyber Security**
 - 📫 How to reach me: [v0r1cth5@gmail.com](mailto:v0r1cth5@gmail.com)
-- 📝 I regularly write articles on [Obsidian](https://obsidian.md)
+- 📝 I organize my life using [Obsidian](https://obsidian.md) and [Morgen Calendar](https://www.morgen.so/)
 
 ## 🛠️ Languages and Tools
 
@@ -44,9 +40,6 @@
   <a href="https://jupyter.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
-  <a href="https://obsidian.md" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone/logos/obsidianmd/obsidianmd-icon.svg" alt="Obsidian" width="40" height="40"/>
-  </a>
 </p>
 
 ## 📊 GitHub Stats
@@ -59,7 +52,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/seu_usuario" target="_blank">
+  <a href="https://www.instagram.com/alanvictor_1/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/alan-victor-28a38325a/" target="_blank">
