@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Victor (Victhors)</h1>
-<h3 align="center">Data Science Enthusiast with a Special Interest in Web Development, Computer Vision, Machine Learning, and Information Security</h3>
+<h3 align="center">Software Enginner Enthusiast with a Special Interest in Web Development, Computer Vision, Machine Learning, and Information Security</h3>
 
 ## 🚀 About Me
 
