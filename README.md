@@ -85,8 +85,6 @@
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Victhors&color=blueviolet" alt="Profile Views"/>
 </div>
