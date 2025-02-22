@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victhors&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victhors&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victhors&show_icons=true&theme=github_dark"/>
 </p>
 
 ## Trophies & Streak
