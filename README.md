@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **TGA** as an **Backend Developer**
+- 🔭 I’m currently working on **SOLO** as an **Backend Developer**
 - 🌱 I’m currently learning **Web Development**
 - 🤝 I’m looking for help with **Typescript Projects**
 - 💬 Ask me about **Cyber Security**
