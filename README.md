@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alan Victor (Victhors)</h1>
+<h1 align="center">Hi 👋, I'm Alan Veras </h1>
 <h3 align="center">Software Enginner with a Special Interest in Web Development, Computer Vision, Machine Learning, and Information Security</h3>
 
 ## 🚀 About Me
