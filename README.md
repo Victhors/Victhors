@@ -15,7 +15,7 @@
 > *Software Engineer specializing in AI and Cybersecurity*
 
 - 🔭 **Currently working on:** AI-driven cybersecurity automation tools and enterprise web applications
-- 🌱 **Currently learning:** Advanced Computer Vision techniques and MLOps for production systems
+- 🌱 **Currently learning:** Advanced Computer Vision techniques
 - 🤝 **Looking to collaborate on:** Projects that integrate Artificial Intelligence with Information Security
 - 💼 **Professional focus:** Machine Learning Engineering, Security Architecture, and Full-Stack Development
 - 💡 **Ask me about:** Cybersecurity implementations, AI model deployment, and scalable system design
