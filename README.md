@@ -74,10 +74,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Victhors&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victhors&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
-</div>
-
 ---
 
 ## 🏆 Achievements & Activity
