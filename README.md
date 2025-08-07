@@ -14,22 +14,13 @@
 
 > *Software Engineer specializing in AI and Cybersecurity*
 
-- 🔭 **Currently working on:** AI-driven cybersecurity automation tools and enterprise web applications
+
 - 🌱 **Currently learning:** Advanced Computer Vision techniques
 - 🤝 **Looking to collaborate on:** Projects that integrate Artificial Intelligence with Information Security
-- 💼 **Professional focus:** Machine Learning Engineering, Security Architecture, and Full-Stack Development
+- 💼 **Professional focus:** Machine Learning Engineering
 - 💡 **Ask me about:** Cybersecurity implementations, AI model deployment, and scalable system design
 - 📧 **Contact:** [v0r1cth5@gmail.com](mailto:v0r1cth5@gmail.com)
 - 🧠 **Productivity tools:** [Obsidian](https://obsidian.md) for knowledge management + [Morgen Calendar](https://www.morgen.so/) for scheduling
-
-### 🚀 Current Status
-
-- 🔭 **Working on:** AI-driven cybersecurity tools and web applications
-- 🌱 **Learning:** Advanced Computer Vision techniques and MLOps
-- 🤝 **Seeking collaboration:** Projects that merge AI with Cybersecurity
-- 💡 **Ask me about:** Cybersecurity strategies, AI implementation, and system architecture
-- 📧 **Reach me:** [v0r1cth5@gmail.com](mailto:v0r1cth5@gmail.com)
-- 🧠 **Productivity stack:** [Obsidian](https://obsidian.md) + [Morgen Calendar](https://www.morgen.so/)
 
 ---
 
