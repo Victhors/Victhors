@@ -116,5 +116,5 @@
 
 <div align="center">
   <b>Thanks for visiting! 😊</b><br>
-  <i>Explore my repositories and ⭐ os que achar úteis!</i>
+  <i>Explore my repositories and ⭐</i>
 </div>
