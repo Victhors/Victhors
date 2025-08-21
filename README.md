@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Victor+Veras;Software+Engineer;AI+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Victor+Veras;Cybersecurity+Engineer;AI+Agents+with+n8n;SOC+Automation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,15 +12,15 @@
 
 ## 🎯 About Me
 
-> *Software Engineer specializing in AI and Cybersecurity*
+> *Cybersecurity & AI Automation (n8n) — foco em Blue Team, detecção, resposta a incidentes e workflows inteligentes.*
 
-
-- 🌱 **Currently learning:** Advanced Computer Vision techniques
-- 🤝 **Looking to collaborate on:** Projects that integrate Artificial Intelligence with Information Security
-- 💼 **Professional focus:** Machine Learning Engineering
-- 💡 **Ask me about:** Cybersecurity implementations, AI model deployment, and scalable system design
-- 📧 **Contact:** [v0r1cth5@gmail.com](mailto:v0r1cth5@gmail.com)
-- 🧠 **Productivity tools:** [Obsidian](https://obsidian.md) for knowledge management + [Morgen Calendar](https://www.morgen.so/) for scheduling
+- 🔭 **Atuação atual:** Automação de SOC e triagem L1→L2 com **n8n** + **LLMs** (OpenAI), enriquecimento de alertas e resposta orquestrada.
+- 🛡️ **Stack de segurança:** Wazuh (SIEM), Suricata/Zeek, OSQuery, Sigma, CrowdSec, hardening Linux/containers.
+- 🧩 **Interesses:** Agentes de IA para segurança, detecção baseada em regras + ML leve, playbooks e integrações (SIEM, ticketing, mensageria).
+- 📚 **Aprendendo agora:** Detection engineering, engenharia de prompts/funções para agentes, integrações MISP/OSINT.
+- 💬 **Fale comigo sobre:** Automação com n8n, pipelines de alerta, hardening em Docker/K8s, integrações com Supabase/PostgreSQL.
+- 📧 **Contato:** [v0r1cth5@gmail.com](mailto:v0r1cth5@gmail.com)
+- 🧠 **Produtividade:** [Obsidian](https://obsidian.md) + [Morgen Calendar](https://www.morgen.so/)
 
 ---
 
@@ -28,31 +28,39 @@
 
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript" alt="Languages"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash" alt="Languages"/>
 
-### Web Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastify" alt="Web"/>
+### Agents & Automation
+<img src="https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+
+### Cybersecurity & Monitoring
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+<img src="https://img.shields.io/badge/Suricata-CC0000?style=for-the-badge" alt="Suricata"/>
+<img src="https://img.shields.io/badge/Zeek-222222?style=for-the-badge" alt="Zeek"/>
+<img src="https://img.shields.io/badge/OSQuery-4B8BBE?style=for-the-badge" alt="OSQuery"/>
+<img src="https://img.shields.io/badge/Sigma%20Rules-1E1E1E?style=for-the-badge" alt="Sigma Rules"/>
+<img src="https://img.shields.io/badge/CrowdSec-6C3FD1?style=for-the-badge" alt="CrowdSec"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Loki-4A8BCE?style=for-the-badge" alt="Loki"/>
 
 ### Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgresql,redis,supabase" alt="Databases"/>
 
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML"/>
-<br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+### Web & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,react" alt="Web"/>
+<br/>
+<img src="https://img.shields.io/badge/Webhooks-0D1117?style=for-the-badge" alt="Webhooks"/>
+<img src="https://img.shields.io/badge/REST%2FJSON-0D1117?style=for-the-badge" alt="REST/JSON"/>
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" alt="DevOps"/>
-<br>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-
-### Cybersecurity & Data Recovery
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-<img src="https://img.shields.io/badge/Data_Recovery-FF6B6B?style=for-the-badge&logo=harddisk&logoColor=white" alt="Data Recovery"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP"/>
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,digitalocean" alt="DevOps"/>
+<br/>
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikmesh&logoColor=white" alt="Traefik"/>
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge" alt="Portainer"/>
 
 </div>
 
@@ -82,8 +90,8 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  
-### Professional Networks
+
+### Professional
 <a href="https://www.linkedin.com/in/alan-victor-28a38325a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover_color=005582" alt="LinkedIn"/>
 </a>
@@ -91,7 +99,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-### Social Media
+### Social
 <a href="https://www.instagram.com/alanvictor_1/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -101,13 +109,12 @@
 ---
 
 <div align="center">
-  <i>⚡ "The future belongs to those who combine human creativity with artificial intelligence" ⚡</i>
+  <i>⚡ "Secure systems + smart automation: where AI meets Blue Team" ⚡</i>
 </div>
 
 ---
 
 <div align="center">
-  <b>Thanks for visiting! 😊</b>
-  <br>
-  <i>Feel free to explore my repositories and don't forget to ⭐ the ones you find interesting!</i>
+  <b>Thanks for visiting! 😊</b><br>
+  <i>Explore my repositories and ⭐ os que achar úteis!</i>
 </div>
