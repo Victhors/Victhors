@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Alan+Veras;AI+%26+Automation+Engineer;Intelligent+Agents+with+n8n;Security+%26+Operational+Automation;Building+Systems+That+Run+in+Production+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Alan+Veras;AI+%26+Automation+Engineer;I+Build+AI+Systems+That+Automate+Real+Work;From+Manual+Processes+to+Smart+Automation+🚀" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Victhors&color=00d9ff&style=flat-square&label=Profile+Views"/>
