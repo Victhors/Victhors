@@ -76,7 +76,7 @@ Busco uma oportunidade como **desenvolvedor fullstack**, onde eu possa evoluir t
   <a href="mailto:v0r1cth5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alan-victor-28a38325a/" target="_blank">
+  <a href="https://www.linkedin.com/in/alan-veras-b4b63137a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
