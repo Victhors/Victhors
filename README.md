@@ -4,17 +4,12 @@
 
 ## Sobre mim
 
-Sou **desenvolvedor fullstack**, com experiência prática em **automação de processos, integração de sistemas e aplicações orientadas a dados**.
+Sou **Engenheiro de IA (Jr) com base fullstack**, com **3+ anos entregando automações em produção** e soluções de **IA aplicada** ponta a ponta — do discovery ao deploy. Já **desenvolvi e implantei agentes de WhatsApp** com **handoff humano confiável**, observabilidade e integrações (n8n, VPS, Postgres/Supabase, Redis), **reduzindo o tempo de resposta de 6–12h para 1–3min** e mantendo atendimento **24/7**. 
 
-Tenho atuado no desenvolvimento de **fluxos de automação com n8n e Make**, integrando APIs de WhatsApp, Google Calendar e ferramentas de produtividade, sempre com atenção ao **fluxo de negócio, handoff humano e confiabilidade**.
+Na prática, transito bem entre **Python** e stacks web/backend (**TypeScript/Node.js**, **REST/Webhooks**) e tenho familiaridade sólida com **LLMs e RAG** (prompting, embeddings, chunking e bancos vetoriais). Em **visão computacional**, construí dataset com **~5.000 imagens rotuladas** e treinei **YOLOv8/YOLOv11**, atingindo **~70% de acerto no piloto** e guiando decisões técnicas por evidências. Também atuo com **DevOps/infra** (Docker, CI/CD, observabilidade) e **Power BI** para dashboards e relatórios. 
 
-Também possuo experiência com **Docker, Traefik e Portainer**, além do uso de **Supabase/PostgreSQL** no backend de aplicações reais.
+Busco uma oportunidade como **AI Engineer (Jr) / Fullstack com IA**, para construir produtos de IA bem estruturados, com impacto mensurável e colaboração próxima ao time e ao produto. 
 
-Na área de **dados e IA**, desenvolvi projetos com **modelos preditivos, análise de dados e visão computacional (YOLO/OpenCV)** em Python, aplicando conceitos de modelagem, avaliação e uso prático em cenários reais.
-
-Atualmente sou **Líder Geral do Projeto Ares (Cybersegurança e DevSecOps) na UFC**, conciliando liderança técnica, colaboração em equipe e desenvolvimento hands-on.
-
-Busco uma oportunidade como **desenvolvedor fullstack**, onde eu possa evoluir tecnicamente e contribuir com soluções bem estruturadas junto ao time e ao produto.
 
 ---
 
