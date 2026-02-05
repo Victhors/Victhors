@@ -1,4 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=30&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Alan+Veras;Fullstack+Developer;Automation%2C+Integrations+and+AI)](https://git.io/typing-svg)
+<!-- =========================================================
+     ALAN VERAS • GITHUB PROFILE README
+     Gray/Blue Theme • HTML Safe Version (EN)
+========================================================= -->
+
+<!-- TOP BANNER (GRAY/BLUE GRADIENT) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Alan%20Veras&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=%20AI%20Engineer%20%7C%20Fullstack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0D1117,50:2C2F36,100:00D9FF"
+    alt="Alan Veras banner"
+  />
+</p>
+
+<!-- TYPING PHRASE (ANIMATED SVG) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+reliable+automations%2C+integrations%2C+and+AI-powered+products+from+discovery+to+deployment."
+    alt="Typing text"
+  />
+</p>
 
 ---
 
