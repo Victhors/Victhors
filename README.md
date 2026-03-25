@@ -26,6 +26,7 @@
 I'm a **AI Engineer with a fullstack background**, with **2+ years delivering production-grade automations** and **end-to-end applied AI solutions** — from discovery to deployment. I have **built and deployed WhatsApp agents** with **reliable human handoff**, observability, and integrations (n8n, VPS, Postgres/Supabase, Redis), **cutting response time from 6–12h to 1–3min** and keeping service **24/7**.
 
 In practice, I work comfortably across **Python** and web/backend stacks (**TypeScript/Node.js**, **REST/Webhooks**) and I have strong familiarity with **LLMs and RAG** (prompting, embeddings, chunking, and vector databases). In **computer vision**, I built a dataset with **~5,000 labeled images** and trained **YOLOv8/YOLOv11**, reaching **~70% accuracy in a pilot** and driving technical decisions based on evidence.
+
 ---
 
 ## Technologies and Tools
